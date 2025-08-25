@@ -8,7 +8,7 @@
 ## 📃 Personal Information
 - **Name:** Igor de Souza Mendes
 - **Pronouns:** He/Him
-- **Age:** 26
+- **Age:** 27
 - **Degree:** Mecatronic Engineering
 - **Languages:** <div>
 <img
@@ -35,9 +35,9 @@
 - Bookbind
 
 ## ✍🏻 Now I am Studying:
-- State Management - Flutter
+- Prompt Engineering
+- React with Next Js
 - GameDesing
-- Software Architecture and Design Patterns
 
 
 ## 💻 Linguagens and Technology:
