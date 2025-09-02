@@ -35,10 +35,7 @@
 - Bookbind
 
 ## ✍🏻 Now I am Studying:
-- Prompt Engineering
-- React with Next Js
-- GameDesing
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/68aa5a27891a1beee1d90f45?variant=dark" alt="roadmap.sh"/></a>
 
 ## 💻 Linguagens and Technology:
 <div>
