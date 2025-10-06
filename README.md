@@ -10,6 +10,7 @@
 - **Pronouns:** He/Him
 - **Age:** 27
 - **Degree:** Mecatronic Engineering
+- **Job:** intern - WEG S.A.
 - **Languages:** <div>
 <img
     align="center"
@@ -86,12 +87,23 @@
 
 <img
     align="left"
-    alt="React"
-    title="React"
+    alt="NextJS"
+    title="NextJs"
     width="50px"
     style="padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg"        
+    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"   
   />
+
+  <img
+    align="left"
+    alt="NextJS"
+    title="NextJs"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
+  />
+
+
 
           
   <br></br>
