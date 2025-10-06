@@ -36,7 +36,7 @@
 - Bookbind
 
 ## ✍🏻 Now I am Studying:
-[![roadmap.sh](https://roadmap.sh/card/tall/68aa5a27891a1beee1d90f45?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68aa5a27891a1beee1d90f45?variant=dark" alt="roadmap.sh"/></a>
 
 ## 💻 Linguagens and Technology:
 <div>
