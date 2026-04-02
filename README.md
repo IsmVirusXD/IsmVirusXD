@@ -35,9 +35,6 @@
 - Youtuber
 - Bookbind
 
-## ✍🏻 Now I am Studying:
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68aa5a27891a1beee1d90f45?variant=dark" alt="roadmap.sh"/></a>
-
 ## 💻 Linguagens and Technology:
 <div>
   <img
