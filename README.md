@@ -37,6 +37,24 @@
 
 ## 💻 Linguagens and Technology:
 <div>
+    <img
+    align="left"
+    alt="React"
+    title="React"
+    width="50px"
+    style="padding-right: 10px;"
+    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"          
+  />
+    
+  <img
+    align="left"
+    alt="NextJS"
+    title="NextJs"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
+  />
+    
   <img
     align="left"
     alt="Python"
@@ -71,29 +89,7 @@
     width="50px"
     style="padding-right: 10px;"
     src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"          
-  />
-
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="50px"
-    style="padding-right: 10px;"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"          
-  />
-
-  <img
-    align="left"
-    alt="NextJS"
-    title="NextJs"
-    width="50px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
-  />
-
-
-
-          
+  />          
   <br></br>
 </div>
 
